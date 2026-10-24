@@ -14,7 +14,7 @@ public:
 int main() {
     int o;
     Student s;
-    s.name = "Ibram";
+    s.name = "Ibra4455m";
     s.grade = 90;
     s.display();
     cin >>o;
